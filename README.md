@@ -27,7 +27,8 @@ Einleitung
 
 ## SAMR-Modell
 
-![SAMR-Modell](/images/SAMR.jpg "SAMR-Modell")
+![SAMR-Modell](/images/SAMR.jpg "Abb.: SAMR-Modell")
+*Quelle: eigene Darstellung*
 
 
 ## Bloomsche Lernziel-Taxonomie
