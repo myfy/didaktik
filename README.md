@@ -28,6 +28,7 @@ Einleitung
 ## SAMR-Modell
 
 ![SAMR-Modell](/images/SAMR.jpg)
+
 *SAMR-Modell, Quelle: eigene Darstellung*
 
 
