@@ -38,7 +38,7 @@ import:   https://raw.githubusercontent.com/liaTemplates/AVR8js/main/README.md
 ## Was ist E-Learning?
 
 ![Image](/images/hazard-sign-trans.png)<!--
-style="width: 10%; float: left; padding-right: 10px" --> Sehen Sie sich das folgende Video an und ergänzen Sie im Anschluss gemeinschaftlich (jeder schreibt etwas) das [__Cryptpad: Was ist E-Learning?__](https://myfy.uber.space/pad/#/2/pad/edit/vsaES8enkKRREeZkDF4kGYnr/).
+style="width: 50px; float: left; padding-right: 10px" --> Sehen Sie sich das folgende Video an und ergänzen Sie im Anschluss gemeinschaftlich (jeder schreibt etwas) das [__Cryptpad: Was ist E-Learning?__](https://myfy.uber.space/pad/#/2/pad/edit/vsaES8enkKRREeZkDF4kGYnr/).
 
 <iframe width="480" height="315" src="https://www.youtube.com/embed/XHwDtmSFrOA?end=93" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -168,7 +168,7 @@ Hier sehen Sie eine Erklärung des Akronyms SAMR:
 *Quelle: eigene Darstellung*
 
 <!-- style="padding: 25px 0 25px 0;" -->![Image](/images/hazard-sign-trans.png)<!--
-style="width: 10%; float: left; padding-right: 10px" -->Sehen Sie sich den
+style="width: 50px; float: left; padding-right: 10px" -->Sehen Sie sich den
 LearningSnack "SAMR-Modell" an:
 
 ![Image](/images/QR-Code-SAMR-Model.jpg)<!--
@@ -199,13 +199,13 @@ style="width: 100%;" -->
 
 
 <!-- style="padding-top: 25px;" -->![Image](/images/hazard-sign-trans.png)<!--
-style="width: 10%; float: left; padding-right: 10px" --> Sehen Sie sich ergänzend das folgende Video zu den Lernziel-Taxonomien und der Zurodnung von Verben an:
+style="width: 50px; float: left; padding-right: 10px" --> Sehen Sie sich ergänzend das folgende Video zu den Lernziel-Taxonomien und der Zurodnung von Verben an:
 
 <!-- style="padding-top: 25px;" -->!?[YouTube](https://youtu.be/sxrMk2HQgHg)
 
 
 <!-- style="padding-top: 25px;" -->![Image](/images/hazard-sign-trans.png)<!--
-style="width: 10%; float: left; padding-right: 10px" -->Überprüfen Sie ihr Gesprür für die Zuordnung von Verben zu den sechs Taxonomiestufen! Ordnen Sie richtig zu:
+style="width: 50px; float: left; padding-right: 10px" -->Überprüfen Sie ihr Gesprür für die Zuordnung von Verben zu den sechs Taxonomiestufen! Ordnen Sie richtig zu:
 
 <iframe src="https://learningapps.org/watch?app=18019347" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
