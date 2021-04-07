@@ -20,8 +20,6 @@ import:   https://raw.githubusercontent.com/liaTemplates/AVR8js/main/README.md
 @js: <script>@0</script>
 -->
 
-
-
 # Didaktik & didaktische Modelle
 
 ## Lernziele
@@ -222,20 +220,113 @@ Erkläuterungen zum Pädagogischen Rad: [https://durchstarten-tools.ch/rad](http
 
 ## Didaktische Modelle
 
+Ein didaktisches Modell ist - einfach gesagt - ein Konzept zur Planung von Unterrichtsinhalten.
+Es gibt verschiedenen didkatische Modelle, die auf einer bestimmten didaktischen Theorie fußen.
+Im Folgenden werden vier didaktische Modelle vorgestellt, die unter anderem in der Hochschullehre eingesetzt werden:
+
+* Constructive Alignment
+* 5-Stufen-Modell
+* ADDIE-Modell
+* Flipped Classroom
+
+
 ### Constructive Alignment
 
+![Image](/images/constructive_alignment.png)<!--
+style="width: 100%;" -->
+
+[Steckbrief Constructive Alignment (TH Köln- Antonia Wudnerlich)](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/steckbrief_constructive_alignment.pdf)
+
+Das Constructive Alignment bietet sich insbesondere für die Hochschullehre an, da hier mittels der eingesetzten Methoden auf das Bestehen der Prüfung hingearbeitet wird. Es wird also in der Prüfung genau das abgefragt, was in der Vorlesung / Übung erarbeitet wurde.
 
 ### 5-Stufen-Modell von Gilly Salmon
+
+![Image](/images/Fuenf_Stufen_Modell_nach_Gilly_Salmon.jpg)<!--
+style="width: 100%;" -->
+https://www.gillysalmon.com/five-stage-model.html
+
+FernUniversität Hagen (e-KOOG):
+
+[Das 5-Stufen-Modell von Gilly Salmon als Video](https://ekoo.fernuni-hagen.de/das-5-stufen-modell-von-gilly-salmon-als-video/)
+
+Das 5-Stufen-Modell ist ein Lernkonzept für die Online-Lehre (Blended Learning). Es zielt insbesondere durch den Einsatz von E-Tivities (s.u.) auf eine höhere Beteilung der Lernernden ab und berücksichtigt die beim Online-Lernen wichtigen sozialen Aspekte des Lernens.   
+
+---
+
+**E-Tivity**
+
+Struktur einer E-Tivity:
+
+* Titel
+* Ziel
+* Aufgabenbeschreibung
+* Reaktion
+* Abgabetermin
+
+
+<!-- style="padding-top: 25px;" -->[Beispiele für E-Tivities](https://oer.fh-joanneum.at/zml/wp-content/uploads/2018/07/beispiele-etivities.pdf) (PDF)
+
+---
+
+<!-- style="padding-top: 25px;" -->![Image](/images/hazard-sign-trans.png)<!--
+style="width: 50px; float: left; padding-right: 10px" -->Ordnen Sie den Beispiel-E-Tivities eine Entwicklungsstufe zu:
+
+
+<iframe style="margin-top:25px" src="beispiele-Etivities.html" width="600" height="700" name="SELFHTML_in_a_box">
+  <p>Ihr Browser kann leider keine eingebetteten Frames anzeigen:
+  Sie können die eingebettete Seite über den folgenden Verweis aufrufen:
+  <a href="beispiele-Etivities.html">H5P</a>
+  </p>
+</iframe>
+
 
 
 ### ADDIE-Modell
 
+![Image](/images/ADDIE.png)<!--
+style="width: 100%;" -->
+
+[The ADDIE Model Infographic](https://elearninginfographics.com/the-addie-model-infographic/)
+
+ADDIE ist ein Akronym für fünf Entwicklungsphase und steht für
+
+* **A**nalyze (Analyse)
+* **D**esign (Konzeption)
+* **D**evelope (Entwicklung)
+* **I**mplement (Implementierung)
+* **E**valuate (Evaluation)
+
+Das ADDIE-Modell ist ein Instruktionsdesign-Modell für (digitale) Lernumgebungen.
+
+[wb-web: Eine digitale Lernumgebung nach dem ADDIE-Modell entwickeln](https://wb-web.de/material/methoden/eine-digitale-lernumgebung-nach-dem-addie-modell-entwickeln.html)
+
 
 ### Inverted / Flipped Classroom
 
+Im klassischen Unterrichtskonzept wird im Präsenzunterricht der Stoff vermittelt und anschließend in Form von Hausaufgaben angewendet und eingeübt.
 
+Inverted oder Flipped Classroom (umgedrehter Unterricht) bezeichnet ein Lehr-/Lern-Konzept, bei dem die eigentliche Stoffvermittlung in Form von Lernvideos erfolgt. In der sich anschließenden Präsenzphase bleibt so mehr Zeit, um die Lerninhalte anzuwenden.
 
---{{1}}--
-In diesem Abschnitt gibt es was zu hören.
+![Image](/images/flipped_classroom.jpg)<!--
+style="width: 100%;" -->
+Bildquelle: [Flipped Classroom, Oliver Tacke / flickr](https://www.flickr.com/photos/otacke/17038214737) [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
-{{|>}}  Text, der vorgelesen wird.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u1Vf4Rn7tKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video: Prof. Christian Spannagel - Flipped Classroom - wie man Vorlesungen umdreht (2013)
+
+## Gamification
+
+Gamification (auch Gamifikation oder Gamifizierung) bezeichnet die Verwendung von spieletypischen Elementen (Punkte, Abzeichen/Batches, Bestenlisten, Fortschrittsanzeigen etc.) in einem nicht-spielbasierten Kontext. Gamification wird vorrangig mit dem Ziel der Motivaitonssteigerung und zur Verhaltensänderung eingesetzt.
+Im Bereich der Hochschule werden Gamification-Elemente vor allem in Lern-Management-Systemen (LMS) wie beispielsweise Moodle in Form von Fortschrittsbalken und Batches eingesetzt.
+
+* Business Academy Ruhr: LevelUp!: [Das Gamification Plugin für die Lernplattform Moodle](https://business-academy-ruhr.de/weiterbildung/levelup-gamification-plugin-fuer-moodle/)
+* RUB: [Gamification und Game Based Learning (OpenRUB)](https://moodle.ruhr-uni-bochum.de/m/course/view.php?id=14022)
+* FernUni Hagen: [Umsetzung von Gamification mit Badges und dem Bearbeitungsstatus in Moodle](https://ekoo.fernuni-hagen.de/umsetzung-von-gamification-mit-badges-und-progress-bars-in-moodle/)
+
+**Gamification in Moodle**
+
+* Video: [Einführung: Gamification in Moodle](https://hs-bochum.sciebo.de/s/1vDS840VurJrRAI)
+* Video: [Level Up!](https://hs-bochum.sciebo.de/s/RErSMSPsxt8cFtx)
+* Video: [Badges](https://hs-bochum.sciebo.de/s/Uoiw8NgGwKsZ0qv)
+
+Videos: Sonja Köllmann
