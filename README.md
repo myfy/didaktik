@@ -266,13 +266,7 @@ Struktur einer E-Tivity:
 style="width: 50px; float: left; padding-right: 10px" -->Ordnen Sie den Beispiel-E-Tivities eine Entwicklungsstufe zu:
 
 
-<iframe style="margin-top:25px" src="beispiele-Etivities.html" width="600" height="700" name="SELFHTML_in_a_box">
-  <p>Ihr Browser kann leider keine eingebetteten Frames anzeigen:
-  Sie können die eingebettete Seite über den folgenden Verweis aufrufen:
-  <a href="beispiele-Etivities.html">H5P</a>
-  </p>
-</iframe>
-
+<iframe src="beispiele-Etivities.html" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 
 ### ADDIE-Modell
