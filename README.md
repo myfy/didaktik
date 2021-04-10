@@ -268,6 +268,7 @@ style="width: 50px; float: left; padding-right: 10px" -->Ordnen Sie den Beispiel
 
 <iframe src="beispiele-Etivities.html" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+[H5P: Beispiele für E-Tivities](https://moodle.hs-bochum.de/mod/hvp/view.php?id=121083)
 
 ### ADDIE-Modell
 
