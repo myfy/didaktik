@@ -14,7 +14,8 @@ narrator: Deutsch Female
 
 comment:  Interaktive Präsentation (Script) zum Modul E-Begleitung an der Hochschule Bochum
 
-import:   https://raw.githubusercontent.com/liaTemplates/rextester/master/README.md
+import:   https://raw.githubusercontent.com/liaTemplates/AVR8js/main/README.md
+          https://raw.githubusercontent.com/liaTemplates/vtk/master/README.md
 
 @js: <script>@0</script>
 -->
