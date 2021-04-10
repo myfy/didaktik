@@ -167,12 +167,15 @@ Hier sehen Sie eine Erklärung des Akronyms SAMR:
 
 <!-- style="padding: 25px 0 25px 0;" -->![Image](/images/hazard-sign-trans.png)<!--
 style="width: 50px; float: left; padding-right: 10px" -->Sehen Sie sich den
-LearningSnack "SAMR-Modell" an:
+LearningSnack "SAMR-Modell" auf Ihrem Smartphone an:
 
 ![Image](/images/QR-Code-SAMR-Model.jpg)<!--
-style="width: 25%;" --> oder:
+style="width: 50%;" -->
 
-<iframe style= 'position:relative;border:none;' width=320 height=480 src="https://www.learningsnacks.de/embed/12530/"></iframe>
+oder direkt hier:
+
+<iframe style= 'position:relative;border:none;' width=640 height=480 src="https://www.learningsnacks.de/embed/12530/"></iframe>
+
 Autor*in: [1A](https://www.learningsnacks.de/#/welcome?userid=5393&channel=Learning%20Snacks)
 
 
@@ -199,7 +202,7 @@ style="width: 100%;" -->
 <!-- style="padding-top: 25px;" -->![Image](/images/hazard-sign-trans.png)<!--
 style="width: 50px; float: left; padding-right: 10px" --> Sehen Sie sich ergänzend das folgende Video zu den Lernziel-Taxonomien und der Zurodnung von Verben an:
 
-<!-- style="padding-top: 25px;" -->!?[YouTube](https://youtu.be/sxrMk2HQgHg)
+<!-- style="padding-top: 25px;" --><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sxrMk2HQgHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <!-- style="padding-top: 25px;" -->![Image](/images/hazard-sign-trans.png)<!--
