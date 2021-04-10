@@ -180,9 +180,9 @@ Autor*in: [1A](https://www.learningsnacks.de/#/welcome?userid=5393&channel=Learn
 
 Lernziele können unterschiedlichen Taxonomiestufen zugeordnet werden. Die Taxonomiestufen gliedern die Lernziele in hiarchische Schritte und helfen bei der Lernzielkontrolle. Den einzelnen Taxonomiestufen nach Bloom (1976) werden Verben zugeordnet, um die Lernziele zu beschreiben. In der folgenden Abbildung sehen Sie die sechs Taxonomiestufen, die über die Zeit modifiziert und manchmal auf vier Stufen reduziert werden.
 
-![Image](/images/BloomscheTaxonomiestufen.jpg "Abb: eigene Darstellung")
+<!-- style="padding-top: 25px;" -->![Image](/images/BloomscheTaxonomiestufen.jpg "Abb: eigene Darstellung")<!-- style="width: 100%;" -->
 
-Aus der folgenden Tabelle können Sie ablesen, welche Verben welcher Taxonomiestufe zugeordnet werden:
+<!-- style="padding-top: 25px;" -->Aus der folgenden Tabelle können Sie ablesen, welche Verben welcher Taxonomiestufe zugeordnet werden:
 
 |     Stufe    	|     Verben    	|     Beispielsätze    	|
 |:-:	|:-:	|:-:	|
@@ -233,20 +233,15 @@ Im Folgenden werden vier didaktische Modelle vorgestellt, die unter anderem in d
 ![Image](/images/constructive_alignment.png)<!--
 style="width: 100%;" -->
 
-[Steckbrief Constructive Alignment (TH Köln- Antonia Wudnerlich)](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/steckbrief_constructive_alignment.pdf)
+[Steckbrief Constructive Alignment (TH Köln- Antonia Wunderlich)](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/profil/lehre/steckbrief_constructive_alignment.pdf)
 
 Das Constructive Alignment bietet sich insbesondere für die Hochschullehre an, da hier mittels der eingesetzten Methoden auf das Bestehen der Prüfung hingearbeitet wird. Es wird also in der Prüfung genau das abgefragt, was in der Vorlesung / Übung erarbeitet wurde.
 
 ### 5-Stufen-Modell von Gilly Salmon
 
-![Image](/images/Fuenf_Stufen_Modell_nach_Gilly_Salmon.jpg)<!--
-style="width: 100%;" -->
+![Image](/images/Fuenf_Stufen_Modell_nach_Gilly_Salmon.jpg "Quelle: Salmon, G. (2011), E-tivities, The Key to Active Online Learning, www.gillysalmon.com/five-stage-model.html")<!-- style="width: 100%;" -->
 
-https://www.gillysalmon.com/five-stage-model.html
-
-FernUniversität Hagen (e-KOOG):
-
-[Video zum 5-Stufen-Modell von Gilly Salmon](https://ekoo.fernuni-hagen.de/das-5-stufen-modell-von-gilly-salmon-als-video/)
+**FernUniversität Hagen (e-KOOG)**: [Video zum 5-Stufen-Modell von Gilly Salmon](https://ekoo.fernuni-hagen.de/das-5-stufen-modell-von-gilly-salmon-als-video/)
 
 Das 5-Stufen-Modell ist ein Lernkonzept für die Online-Lehre (Blended Learning). Es zielt insbesondere durch den Einsatz von E-Tivities (s.u.) auf eine höhere Beteilung der Lernernden ab und berücksichtigt die beim Online-Lernen wichtigen sozialen Aspekte des Lernens.   
 
@@ -296,7 +291,7 @@ ADDIE ist ein Akronym für fünf Entwicklungsphase und steht für
 
 Das ADDIE-Modell ist ein Instruktionsdesign-Modell für (digitale) Lernumgebungen.
 
-[wb-web: Eine digitale Lernumgebung nach dem ADDIE-Modell entwickeln](https://wb-web.de/material/methoden/eine-digitale-lernumgebung-nach-dem-addie-modell-entwickeln.html)
+**wb-web**: [Eine digitale Lernumgebung nach dem ADDIE-Modell entwickeln](https://wb-web.de/material/methoden/eine-digitale-lernumgebung-nach-dem-addie-modell-entwickeln.html)
 
 
 ### Inverted / Flipped Classroom
