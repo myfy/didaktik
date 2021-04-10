@@ -311,8 +311,7 @@ Im klassischen Unterrichtskonzept wird im Präsenzunterricht der Stoff vermittel
 
 Inverted oder Flipped Classroom (umgedrehter Unterricht) bezeichnet ein Lehr-/Lern-Konzept, bei dem die eigentliche Stoffvermittlung in Form von Lernvideos erfolgt. In der sich anschließenden Präsenzphase bleibt so mehr Zeit, um die Lerninhalte anzuwenden.
 
-![Image](/images/flipped_classroom.jpg)<!--
-style="width: 100%;" -->
+![Image](/images/flipped_classroom.jpg)<!-- style="width: 100%;" -->
 
 Bildquelle: [Flipped Classroom, Oliver Tacke / flickr](https://www.flickr.com/photos/otacke/17038214737) [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
