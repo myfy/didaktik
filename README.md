@@ -162,12 +162,11 @@ z. B. MOOCs, Webinare
 
 Hier sehen Sie eine Erklärung des Akronyms SAMR:
 
-![SAMR-Modell, eigene Darstellung](/images/SAMR.jpg "Abb.: SAMR-Modell")<!-- style="width: 100%;" -->
+![Image](/images/SAMR.jpg "Abb.: SAMR-Modell - eigene Darstellung")<!-- style="width: 100%;" -->
 
-<!-- style="padding: 25px 0 25px 0;" -->![Image](/images/hazard-sign-trans.png)<!--
-style="width: 50px; float: left; padding-right: 10px" -->Sehen Sie sich den LearningSnack "SAMR-Modell" auf Ihrem Smartphone an:
+<!-- style="padding: 25px 0 25px 0;" -->![Image](/images/hazard-sign-trans.png)<!-- style="width: 50px; float: left; padding-right: 10px" -->Sehen Sie sich den LearningSnack "SAMR-Modell" auf Ihrem Smartphone an:
 
-![eigene Darstellung](/images/QR-Code-SAMR-Model.jpg)<!-- style="width: 25%;" -->
+![Image](/images/QR-Code-SAMR-Model.jpg)<!-- style="width: 25%;" -->
 
 oder direkt hier:
 
@@ -181,7 +180,7 @@ Autor*in: [1A](https://www.learningsnacks.de/#/welcome?userid=5393&channel=Learn
 
 Lernziele können unterschiedlichen Taxonomiestufen zugeordnet werden. Die Taxonomiestufen gliedern die Lernziele in hiarchische Schritte und helfen bei der Lernzielkontrolle. Den einzelnen Taxonomiestufen nach Bloom (1976) werden Verben zugeordnet, um die Lernziele zu beschreiben. In der folgenden Abbildung sehen Sie die sechs Taxonomiestufen, die über die Zeit modifiziert und manchmal auf vier Stufen reduziert werden.
 
-<!-- style="padding-top: 25px;" -->![Image](/images/BloomscheTaxonomiestufen.jpg)<!--
+<!-- style="padding-top: 25px;" -->![Image](/images/BloomscheTaxonomiestufen.jpg "Abb: eigene Darstellung")<!--
 style="width: 100%;" -->
 
 <!-- style="padding-top: 25px;" -->Aus der folgenden Tabelle können Sie ablesen, welche Verben welcher Taxonomiestufe zugeordnet werden:
