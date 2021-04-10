@@ -219,7 +219,7 @@ style="width: 100%;" -->
 
 Poster als PDF: [Padagog Rad V4.1](https://designingoutcomes.com/Padagogy_Wheel_Translations/Padagogy_Wheel_V4_GER.pdf)
 
-Erkläuterungen zum Pädagogischen Rad: [https://durchstarten-tools.ch/rad](https://durchstarten-tools.ch/rad)
+Erläuterungen zum Pädagogischen Rad: [https://durchstarten-tools.ch/rad](https://durchstarten-tools.ch/rad)
 
 ## Didaktische Modelle
 
@@ -246,11 +246,12 @@ Das Constructive Alignment bietet sich insbesondere für die Hochschullehre an, 
 
 ![Image](/images/Fuenf_Stufen_Modell_nach_Gilly_Salmon.jpg)<!--
 style="width: 100%;" -->
+
 https://www.gillysalmon.com/five-stage-model.html
 
 FernUniversität Hagen (e-KOOG):
 
-[Das 5-Stufen-Modell von Gilly Salmon als Video](https://ekoo.fernuni-hagen.de/das-5-stufen-modell-von-gilly-salmon-als-video/)
+[Video zum 5-Stufen-Modell von Gilly Salmon](https://ekoo.fernuni-hagen.de/das-5-stufen-modell-von-gilly-salmon-als-video/)
 
 Das 5-Stufen-Modell ist ein Lernkonzept für die Online-Lehre (Blended Learning). Es zielt insbesondere durch den Einsatz von E-Tivities (s.u.) auf eine höhere Beteilung der Lernernden ab und berücksichtigt die beim Online-Lernen wichtigen sozialen Aspekte des Lernens.   
 
@@ -312,6 +313,7 @@ Inverted oder Flipped Classroom (umgedrehter Unterricht) bezeichnet ein Lehr-/Le
 
 ![Image](/images/flipped_classroom.jpg)<!--
 style="width: 100%;" -->
+
 Bildquelle: [Flipped Classroom, Oliver Tacke / flickr](https://www.flickr.com/photos/otacke/17038214737) [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u1Vf4Rn7tKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
