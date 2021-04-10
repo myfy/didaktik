@@ -162,15 +162,15 @@ z. B. MOOCs, Webinare
 
 Hier sehen Sie eine Erklärung des Akronyms SAMR:
 
-![SAMR-Modell](/images/SAMR.jpg "Abb.: SAMR-Modell")
+![SAMR-Modell](/images/SAMR.jpg "Abb.: SAMR-Modell")<!-- style="width: 100%;" -->
+
 *Quelle: eigene Darstellung*
 
 <!-- style="padding: 25px 0 25px 0;" -->![Image](/images/hazard-sign-trans.png)<!--
 style="width: 50px; float: left; padding-right: 10px" -->Sehen Sie sich den
 LearningSnack "SAMR-Modell" auf Ihrem Smartphone an:
 
-![Image](/images/QR-Code-SAMR-Model.jpg)<!--
-style="width: 50%;" -->
+![Image](/images/QR-Code-SAMR-Model.jpg)<!-- style="width: 25%;" -->
 
 oder direkt hier:
 
@@ -287,8 +287,7 @@ style="width: 50px; float: left; padding-right: 10px" -->Ordnen Sie den Beispiel
 
 ### ADDIE-Modell
 
-![Image](/images/ADDIE.png)<!--
-style="width: 100%;" -->
+![Image](/images/ADDIE.png)<!-- style="width: 100%;" -->
 
 [The ADDIE Model Infographic](https://elearninginfographics.com/the-addie-model-infographic/)
 
